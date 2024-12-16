@@ -1,5 +1,5 @@
-# 👋 Hello, World
-## 👨🏻‍🦱 I'm Roshan Patil
+# 👋 Hello, World!
+👨🏻‍🦱 I'm Roshan Patil<br>
 🔭 I’m currently working on React Native<br>
 🌱 I’m currently learning NextJS <br>
 💬 Ask me about anything related to  Js, React and React Native<br>
