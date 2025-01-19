@@ -1,6 +1,6 @@
 # 👋 Hello, World
 ## 👨🏻‍🦱 I'm Roshan Patil
-🔭 I’m currently working on React Native<br>
+🔭 I’m currently working on React and React Native<br>
 🌱 I’m currently learning NextJS <br>
 💬 Ask me about anything related to  Js, React and React Native<br>
 
