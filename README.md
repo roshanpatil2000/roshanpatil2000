@@ -67,3 +67,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=roshanpatil2000&icon=0&color=3)](https://visitcount.itsvg.in)
+
+
