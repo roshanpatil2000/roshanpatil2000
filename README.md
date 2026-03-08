@@ -63,6 +63,7 @@ I’m a React Developer with 3 years of experience, passionate about building sc
 
 [Hello World!](https://www.thegitcity.com/dev/roshanpatil2000)
 ![](https://github-readme-stats.vercel.app/api?username=roshanpatil2000&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roshanpatil2000&theme=codeSTACKr&hide_border=false)<br/>
 
 
 
