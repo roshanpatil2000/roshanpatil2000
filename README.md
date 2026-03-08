@@ -83,3 +83,8 @@ I’m a React Developer with 3 years of experience, passionate about building sc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpatil2000&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+
+
+
+![](https://www.thegitcity.com/dev/roshanpatil2000)
