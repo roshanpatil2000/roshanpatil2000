@@ -60,11 +60,12 @@ I’m a React Developer with 3 years of experience, passionate about building sc
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 #
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=roshanpatil2000&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roshanpatil2000&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpatil2000&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ -->
 
 <!--
 ## 🏆 GitHub Trophies
