@@ -3,9 +3,6 @@
 I’m a React Developer with 3 years of experience, passionate about building scalable web and mobile applications. I specialize in React.js, React Native, and JavaScript, focusing on clean architecture and performance optimization.
 </br>
 </br>
-</br>
-
-
 🔭 I’m currently working on React and React Native<br>
 🌱 I’m currently learning NextJS <br>
 💬 Ask me about anything related to  Js, React and React Native<br>
@@ -69,10 +66,9 @@ I’m a React Developer with 3 years of experience, passionate about building sc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roshanpatil2000&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpatil2000&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roshanpatil2000&theme=flag-india&no-frame=true&no-bg=true&margin-w=4)
- -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
