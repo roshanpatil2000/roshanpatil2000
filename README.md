@@ -1,8 +1,9 @@
 # 👋 Hello, World!
 ## 👨🏻‍🦱 I'm Roshan Patil
 I’m a React Developer with 3 years of experience, passionate about building scalable web and mobile applications. I specialize in React.js, React Native, and JavaScript, focusing on clean architecture and performance optimization.
-
-
+</br>
+</br>
+</br>
 
 
 🔭 I’m currently working on React and React Native<br>
