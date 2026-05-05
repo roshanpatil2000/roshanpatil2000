@@ -69,10 +69,10 @@ I’m a React Developer with 3 years of experience, passionate about building sc
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roshanpatil2000&theme=flag-india&no-frame=true&no-bg=true&margin-w=4)
--->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+-->
 
 
 ---
